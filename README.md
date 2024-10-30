@@ -6,10 +6,22 @@ This repository provides code and resources for segmenting brain tumors using ma
 - [Project Overview](#Project-Overview)
 - Features
 
+<figure>
+<img src="/DATA/channels.png" alt="Channels Image"/>
+<figure-caption>The 4 channels representing the images modalities</figure-caption>
+</figure>
+
+<figure>
+<img src="/DATA/masks.png" alt="Masks Image"/>
+<figure-caption>The 4 channels of the labels</figure-caption>
+</figure>
+
 ## Project Overview
 
 Brain tumor segmentation is a crucial step in medical imaging, helping doctors identify the exact location and boundaries of tumors. This project leverages advanced machine learning and deep learning techniques to perform segmentation on MRI scans. 
-The main objective is to provide a reliable tool for accurate brain tumor localization.
+The main objective is to provide a reliable tool for accurate brain tumor localization. \
+\
+With [Project Presentation.pdf](/Project-Presentation.pdf)  you can have a look at all the work and the final results.
 
 ## Features
 
