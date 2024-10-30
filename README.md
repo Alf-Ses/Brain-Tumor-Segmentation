@@ -11,10 +11,14 @@ This repository provides code and resources for segmenting brain tumors using ma
 <figure-caption>The 4 channels representing the images modalities</figure-caption>
 </figure>
 
+</br> </br> </br>
+
 <figure>
-<img src="/DATA/masks.png" alt="Masks Image"/>
-<figure-caption>The 4 channels of the labels</figure-caption>
+<img src="/DATA/masks.png" alt="Channels Image"/>
+<figure-caption>The 4 channels representing the masks</figure-caption>
 </figure>
+
+
 
 ## Project Overview
 
