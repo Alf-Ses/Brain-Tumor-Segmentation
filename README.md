@@ -1,6 +1,6 @@
 # Brain Tumor Segmentation
 
-This repository provides code and resources for segmenting brain tumors using machine learning. The goal of this project is to accurately identify and segment brain tumor regions from MRI images, potentially aiding in diagnostics and treatment planning.
+This repository provides code and resources for segmenting brain tumors using deep learning. The goal of this project is to accurately identify and segment brain tumor regions from MRI images, potentially aiding in diagnostics and treatment planning.
 
 ## Table of Contents
 - [Project Overview](#Project-Overview)
